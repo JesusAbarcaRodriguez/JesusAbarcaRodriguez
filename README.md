@@ -31,20 +31,27 @@ I have strong experience in state management with **Redux Toolkit and RTK Query*
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,redux,html,css,js&theme=dark" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,redux,html,css,webpack&theme=dark" alt="Frontend stack" />
+<br/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" height="32" />
 
 **Backend & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,aws&theme=dark" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,java,py,cpp,rust,aws,firebase&theme=dark" alt="Backend stack" />
 
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="Databases" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
-
-**Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="32" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="32" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="32" />
+
+**Design, IoT & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,arduino&theme=dark" alt="Tools" />
+<br/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" height="32" />
 
 ---
 
